@@ -29,6 +29,7 @@
     height:60px;
     border-radius: 20px;
     font-size: 25px;
+    cursor: pointer;
 }
 @media screen and (max-width:576px) {
    .main h2{
